@@ -1,5 +1,5 @@
 # CV FrontEnd Developer junior.  
-
+![My foto](./foto.png)
 ## Aliaksandr Mamchyts
                                          
 
