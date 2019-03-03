@@ -10,7 +10,12 @@
     * +375333433385
     * al.mamchyts@gmail.com
 
-
+#### Skills:
+* HTML
+* CSS
+* JavaScript
+* React
+* Git
 
 #### Education:
 * 2001 - Minsk State College of Electronics.
