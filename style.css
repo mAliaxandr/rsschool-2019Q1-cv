@@ -70,3 +70,28 @@ h4{
     top: 4px;
     right: 40px;
 }
+@media(max-width: 1100px){
+    .wrapper{
+        width: 95%;
+    }
+    .main{
+        width: 100%;
+    }
+    .header-avatar{
+        position: relative;
+        margin: 0 auto;
+        top: 0;
+        right: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    h1{
+        text-align: center;
+    }  
+    .main-contacts-social{
+        right: 5px;
+    }
+    .main-contacts-social img{
+        border-radius: 2px;
+    }
+}
